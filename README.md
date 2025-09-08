@@ -1,4 +1,4 @@
-# QuakerTracker
+# QuakeTracker
 
 ![screenshot](img/screencapture.png)
 
@@ -26,7 +26,7 @@ Python 3.
 Clone this repository.
 
 ```bash
-git clone https://github.com/djjohns/QuakerTracker.git
+git clone https://github.com/djjohns/QuakeTracker.git
 ```
 
 Change into the projects root directory.
